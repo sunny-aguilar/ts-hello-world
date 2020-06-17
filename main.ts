@@ -15,6 +15,6 @@ let message = 'Welcome back!';
 console.log(message);
 
 let isBeginner: boolean = true;
-
+let total: number = 0;
 
 
