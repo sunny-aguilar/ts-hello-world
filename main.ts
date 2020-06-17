@@ -7,11 +7,11 @@
 // this treats this file as a module otherwise it is treated
 // as a script which shares the global scope with any other
 // scripts and therefore causing errors (duplicate variable
-// names (errase export{} to test)
+// names (erase export{} to test)
 export {}
 
 
-let message = 'Hello World!';
+let message = 'Welcome back!';
 console.log(message);
 
 
